@@ -42,7 +42,7 @@ h1 {
   padding-bottom: 20px;
   font-size: 30px;
   line-height: 49px;
-  border-bottom: 3px solid #dddddd;
+  border-bottom: 3px solid red;
 }
 
 h2,
@@ -60,7 +60,7 @@ h3 {
   overflow: auto;
   color: red;
   background: black;
-  border-bottom: 2px solid #cccccc;
+  border-bottom: 2px solid red;
 }
 
 #logo {
@@ -87,7 +87,7 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #999;
+  color: red;
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
@@ -102,11 +102,11 @@ footer {
   padding: 30px 0;
   clear: both;
   font-size: 12px;
-  color: #ffffff;
-  color: #cccccc;
+  color: red;
+  color: red;
   text-align: center;
-  background: #666666;
-  border-top: 8px solid #4aaaa5;
+  background: black;
+  border-top: 8px solid black;
   height: 50px;
 }
 
@@ -114,7 +114,7 @@ h3, h2 {
   padding-bottom: 20px;
   margin-bottom: 15px;
   line-height: 22px;
-  border-bottom: 2px solid #eeeeee;
+  border-bottom: 2px solid red;
 }
 
 /* main */
@@ -130,8 +130,8 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #ffffff;
-  border: 1px solid #dddddd;
+  background: black;
+  border: 1px solid red;
 }
 
 /* portfolio page */
@@ -162,9 +162,9 @@ h3, h2 {
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
-  color: #ffffff;
+  color: red;
   text-align: center;
-  background: #4aaaa5;
+  background: black;
   border-bottom: 0;
 }
 
@@ -200,7 +200,7 @@ textarea {
   height: 35px;
   padding: 0 10px;
   font-size: 14px;
-  border: 1px solid #dddddd;
+  border: 1px solid red;
 }
 
 textarea {
@@ -212,7 +212,7 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: red;
   border: 0 none;
 }
 @media screen and (max-width: 650px){
